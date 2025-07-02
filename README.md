@@ -1,5 +1,11 @@
 # Firstprojects
-Hi 👋 My name is Carina
+
+![Header](./[Your header image])
+
+![github-header-image (2)](https://github.com/user-attachments/assets/0e8287d5-013e-448f-a8da-01f25510fcc6)
+
+
+Hi, My name is Carina
 =======================
 
 I'm an aspiring Data Scientist
